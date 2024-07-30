@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Derbyx\Derbyx\bin\Release\Derbyx.exe.config
+C:\Users\Admin\source\repos\Derbyx\Derbyx\bin\Release\Derbyx.exe
+C:\Users\Admin\source\repos\Derbyx\Derbyx\bin\Release\Derbyx.pdb
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.exe
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.pdb
+C:\Users\Admin\source\repos\Derbyx\Derbyx\bin\Release\Derbyx.exe.manifest
+C:\Users\Admin\source\repos\Derbyx\Derbyx\bin\Release\Derbyx.application
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.TrustInfo.xml
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.exe.manifest
+C:\Users\Admin\source\repos\Derbyx\Derbyx\obj\Release\Derbyx.application
